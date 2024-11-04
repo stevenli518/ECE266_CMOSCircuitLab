@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Chengming_Li\GitHub\ECE266_CMOSCircuitLab\Lab5_PCB\LTspice\ADA4940_SEDE.asc
+Start Time: Tue Oct 15 07:48:33 2024
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.094 seconds.
+

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IN_T12_P Pin=J12-2
+Added Pin To Net: NetName=IN_T12_P Pin=J9-2
+Added Pin To Net: NetName=V_SIN_IN_P Pin=J10-2
+Added Pin To Net: NetName=V_SIN_IN_P Pin=J12-2
+Added Pin To Net: NetName=V_SIN_IN_P Pin=TP2-1
+Change Net Name : Old Net Name=V_SIN_IN_P New Net Name=IN_T12_N
+Added Room: Name=MotherBoard

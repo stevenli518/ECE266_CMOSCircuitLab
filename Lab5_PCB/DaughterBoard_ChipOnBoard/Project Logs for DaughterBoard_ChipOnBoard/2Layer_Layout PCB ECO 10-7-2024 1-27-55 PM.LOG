@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=DVSS_T12 Pin=C2-1
+Removed Pin From Net: NetName=VDD_T12 Pin=C2-2
+Removed Pin From Net: NetName=VSS_ESD_T12 Pin=C4-1
+Removed Pin From Net: NetName=VDD_ESD_T12 Pin=C4-2
+Removed Pin From Net: NetName=AVSS Pin=C6-1
+Removed Pin From Net: NetName=VDD_ANA_ESD Pin=C6-2
+Change Component Footprint: Designator=J1 Old Footprint=FP-90120-0125-MFG New Footprint=FP-90120-0125-MFG
+Added Component: Designator=C2(CAPC2013X140X50NL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "08055D105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2013X140X50NL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "08055D105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC2013X140X50NL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "08055D105KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DVSS_T12 Pin=C2-1
+Added Pin To Net: NetName=VDD_T12 Pin=C2-2
+Added Pin To Net: NetName=VSS_ESD_T12 Pin=C4-1
+Added Pin To Net: NetName=VDD_ESD_T12 Pin=C4-2
+Added Pin To Net: NetName=AVSS Pin=C6-1
+Added Pin To Net: NetName=VDD_ANA_ESD Pin=C6-2

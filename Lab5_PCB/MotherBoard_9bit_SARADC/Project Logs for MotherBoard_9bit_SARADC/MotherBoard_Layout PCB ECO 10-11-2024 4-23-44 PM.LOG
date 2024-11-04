@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LT6350_5V Pin=C9-2
+Change Component Designator: OldDesignator=ADA4940 NewDesignator=U5
+Change Component Designator: OldDesignator=ADA4940_-5_J NewDesignator=P6
+Change Component Designator: OldDesignator=ADA4940_J NewDesignator=P5
+Change Component Designator: OldDesignator=LT6350_J NewDesignator=P2
+Change Component Designator: OldDesignator=LT6530 NewDesignator=U4
+Change Component Designator: OldDesignator=LT6530_-5_J NewDesignator=P4
+Change Component Designator: OldDesignator=SIN_IN_J NewDesignator=J15
+Change Component Designator: OldDesignator=U3_LDO NewDesignator=U3
+Added Pin To Net: NetName=DVSS_T12 Pin=C9-2
+Added Room: Name=MotherBoard

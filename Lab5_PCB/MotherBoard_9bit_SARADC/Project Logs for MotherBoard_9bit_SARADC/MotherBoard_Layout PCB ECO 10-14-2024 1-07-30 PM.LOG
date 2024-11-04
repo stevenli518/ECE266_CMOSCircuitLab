@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DGND Pin=P14-1
+Removed Pin From Net: NetName=DGND Pin=P14-2
+Removed Member From Class: ClassName=MotherBoard Member=P14
+Change Component Designator: OldDesignator=    NewDesignator=C6
+Added Room: Name=MotherBoard

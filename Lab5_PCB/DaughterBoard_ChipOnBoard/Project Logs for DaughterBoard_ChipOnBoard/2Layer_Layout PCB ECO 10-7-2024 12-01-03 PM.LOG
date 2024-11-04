@@ -1,0 +1,30 @@
+Added Component: Designator=U1(ADC_Team12)
+Added Pin To Net: NetName=VDD_ESD_T12 Pin=U1-1
+Added Pin To Net: NetName=VSS_ESD_T12 Pin=U1-2
+Added Pin To Net: NetName=DVSS_T12 Pin=U1-3
+Added Pin To Net: NetName=VDD_T12 Pin=U1-4
+Added Pin To Net: NetName=CLK_T12 Pin=U1-5
+Added Pin To Net: NetName=MUX1 Pin=U1-6
+Added Pin To Net: NetName=MUX0 Pin=U1-7
+Added Pin To Net: NetName=Code8 Pin=U1-8
+Added Pin To Net: NetName=Code7 Pin=U1-9
+Added Pin To Net: NetName=Code6 Pin=U1-10
+Added Pin To Net: NetName=Code5 Pin=U1-11
+Added Pin To Net: NetName=Code4 Pin=U1-12
+Added Pin To Net: NetName=Code3 Pin=U1-13
+Added Pin To Net: NetName=Code2 Pin=U1-14
+Added Pin To Net: NetName=Code1 Pin=U1-15
+Added Pin To Net: NetName=Code0 Pin=U1-16
+Added Pin To Net: NetName=EOC Pin=U1-17
+Added Pin To Net: NetName=AVSS Pin=U1-29
+Added Pin To Net: NetName=INN_T12 Pin=U1-32
+Added Pin To Net: NetName=AVSS Pin=U1-34
+Added Pin To Net: NetName=VDD_ANA_ESD Pin=U1-36
+Added Pin To Net: NetName=VCM_T12 Pin=U1-38
+Added Pin To Net: NetName=INP_T12 Pin=U1-39
+Added Pin To Net: NetName=AVSS Pin=U1-43
+Added Pin To Net: NetName=VDD_ANA_ESD Pin=U1-44
+Added Pin To Net: NetName=AVSS Pin=U1-45
+Added Pin To Net: NetName=AVSS Pin=U1-46
+Added Pin To Net: NetName=AVSS Pin=U1-47
+Added Member To Class: ClassName=2layer_COB Member=Component U1 U_ADC_Mega2

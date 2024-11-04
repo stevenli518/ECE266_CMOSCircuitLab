@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=J7 Old Footprint=61301021821 New Footprint=61301021821
+Change Component Footprint: Designator=C1 Old Footprint=FP-593DA-MFG New Footprint=FP-593DA-MFG
+Change Component Footprint: Designator=C2 Old Footprint=FP-593DA-MFG New Footprint=FP-593DA-MFG
+Change Component Footprint: Designator=C3 Old Footprint=FP-593DA-MFG New Footprint=FP-593DA-MFG
+Change Component Footprint: Designator=J6 Old Footprint=FP-SSW-103-01-G-S-MFG New Footprint=FP-SSW-103-01-G-S-MFG
+Added Pin To Net: NetName=CLK_IN Pin=J8-3

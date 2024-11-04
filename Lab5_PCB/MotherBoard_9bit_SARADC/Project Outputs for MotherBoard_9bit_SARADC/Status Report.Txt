@@ -1,0 +1,35 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MotherBoard_9bit_SARADC.PrjPcb]
+   Generated File[MotherBoard_Layout.GTO]
+   Generated File[MotherBoard_Layout.GTP]
+   Generated File[MotherBoard_Layout.GTS]
+   Generated File[MotherBoard_Layout.GTL]
+   Generated File[MotherBoard_Layout.G1]
+   Generated File[MotherBoard_Layout.G2]
+   Generated File[MotherBoard_Layout.GBL]
+   Generated File[MotherBoard_Layout.GBS]
+   Generated File[MotherBoard_Layout.GBO]
+   Generated File[MotherBoard_Layout.GM1]
+   Generated File[MotherBoard_Layout.GM3]
+   Generated File[MotherBoard_Layout.GM5]
+   Generated File[MotherBoard_Layout.GM11]
+   Generated File[MotherBoard_Layout.GM13]
+   Generated File[MotherBoard_Layout.GM15]
+   Generated File[MotherBoard_Layout.GM16]
+   Generated File[MotherBoard_Layout.GM20]
+   Generated File[MotherBoard_Layout.GM21]
+   Generated File[MotherBoard_Layout.GM23]
+   Generated File[MotherBoard_Layout.GM24]
+   Generated File[MotherBoard_Layout.GKO]
+   Generated File[MotherBoard_Layout.GPT]
+   Generated File[MotherBoard_Layout.GPB]
+   Generated File[MotherBoard_Layout.RUL]
+   Generated File[MotherBoard_Layout.EXTREP]
+   Generated File[MotherBoard_Layout.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 1:41:57 PM On 10/24/2024

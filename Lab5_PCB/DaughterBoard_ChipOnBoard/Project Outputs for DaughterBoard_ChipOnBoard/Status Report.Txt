@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DaughterBoard_ChipOnBoard.PrjPcb]
+   Generated File[2Layer_Layout.TXT]
+   Generated File[2Layer_Layout.LDP]
+   Generated File[2Layer_Layout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:40:02 PM On 10/17/2024

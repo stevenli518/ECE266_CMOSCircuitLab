@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=For_AVDD_ESD_1V Pin=J10-1
+Removed Pin From Net: NetName=AGND Pin=J10-5
+Added Pin To Net: NetName=AGND Pin=J10-1
+Added Pin To Net: NetName=For_AVDD_ESD_1V Pin=J10-5

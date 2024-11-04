@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=MUX0 Pin=J1-1
+Removed Pin From Net: NetName=MUX1 Pin=J1-2
+Removed Pin From Net: NetName=CLK_T12 Pin=J1-3
+Removed Pin From Net: NetName=VDD_T12 Pin=J1-4
+Removed Pin From Net: NetName=DVSS_T12 Pin=J1-5
+Removed Pin From Net: NetName=VDD_ESD_T12 Pin=J3-1
+Removed Pin From Net: NetName=VSS_ESD_T12 Pin=J3-2
+Removed Pin From Net: NetName=VSS_ESD_T12 Pin=J3-3
+Removed Pin From Net: NetName=EOC Pin=P1-1
+Removed Pin From Net: NetName=Code8 Pin=P1-2
+Removed Pin From Net: NetName=Code0 Pin=P1-3
+Removed Pin From Net: NetName=Code7 Pin=P1-4
+Removed Pin From Net: NetName=Code1 Pin=P1-5
+Removed Pin From Net: NetName=Code6 Pin=P1-6
+Removed Pin From Net: NetName=Code2 Pin=P1-7
+Removed Pin From Net: NetName=Code5 Pin=P1-8
+Removed Pin From Net: NetName=Code3 Pin=P1-9
+Removed Pin From Net: NetName=Code4 Pin=P1-10
+Removed Member From Class: ClassName=2layer_COB Member=J1
+Removed Member From Class: ClassName=2layer_COB Member=J3
+Removed Member From Class: ClassName=2layer_COB Member=P1
+Added Component: Designator=P2(61301821121)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "32855553"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_ESD_T12 Pin=P2-1
+Added Pin To Net: NetName=VSS_ESD_T12 Pin=P2-2
+Added Pin To Net: NetName=VDD_T12 Pin=P2-3
+Added Pin To Net: NetName=DVSS_T12 Pin=P2-4
+Added Pin To Net: NetName=CLK_T12 Pin=P2-5
+Added Pin To Net: NetName=MUX0 Pin=P2-7
+Added Pin To Net: NetName=MUX1 Pin=P2-8
+Added Pin To Net: NetName=Code8 Pin=P2-9
+Added Pin To Net: NetName=EOC Pin=P2-10
+Added Pin To Net: NetName=Code7 Pin=P2-11
+Added Pin To Net: NetName=Code0 Pin=P2-12
+Added Pin To Net: NetName=Code6 Pin=P2-13
+Added Pin To Net: NetName=Code1 Pin=P2-14
+Added Pin To Net: NetName=Code5 Pin=P2-15
+Added Pin To Net: NetName=Code2 Pin=P2-16
+Added Pin To Net: NetName=Code4 Pin=P2-17
+Added Pin To Net: NetName=Code3 Pin=P2-18
+Change Net Name : Old Net Name=INN_T12 New Net Name=IN_T12_N
+Change Net Name : Old Net Name=INP_T12 New Net Name=IN_T12_P
+Added Differential Pair: Name=IN_T12
+Added Member To Class: ClassName=2layer_COB Member=Component P2 61301821121

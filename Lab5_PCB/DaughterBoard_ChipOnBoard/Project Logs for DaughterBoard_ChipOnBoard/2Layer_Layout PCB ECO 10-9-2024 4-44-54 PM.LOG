@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=P2 Old Footprint=61301821121 New Footprint=61301821121
+Change Component Footprint: Designator=J2 Old Footprint=FP-90120-0125-MFG New Footprint=FP-90120-0125-MFG
+Added Pin To Net: NetName=AVSS Pin=C1-2
+Added Pin To Net: NetName=AVSS Pin=C2-1
+Added Pin To Net: NetName=AVSS Pin=C3-2
+Added Pin To Net: NetName=AVSS Pin=C4-1
+Added Pin To Net: NetName=AVSS Pin=P2-2
+Added Pin To Net: NetName=AVSS Pin=P2-4
+Added Pin To Net: NetName=AVSS Pin=U1-2
+Added Pin To Net: NetName=AVSS Pin=U1-3

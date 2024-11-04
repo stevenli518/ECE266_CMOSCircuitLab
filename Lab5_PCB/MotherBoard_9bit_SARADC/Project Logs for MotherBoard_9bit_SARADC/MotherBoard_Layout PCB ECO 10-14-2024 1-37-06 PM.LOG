@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R? Old Footprint=FP-D12-CRCW0805-MFG New Footprint=FP-D12-CRCW0805-MFG
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Added Room: Name=MotherBoard

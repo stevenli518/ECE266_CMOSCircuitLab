@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=DGND Pin=C26-1
+Removed Pin From Net: NetName=+5 Pin=C26-2
+Removed Pin From Net: NetName=DGND Pin=U6-2
+Removed Pin From Net: NetName=IN_T12_P Pin=U6-4
+Removed Pin From Net: NetName=+5 Pin=U6-5
+Removed Pin From Net: NetName=IN_T12_N Pin=U6-6
+Removed Member From Class: ClassName=MotherBoard Member=C26
+Removed Member From Class: ClassName=MotherBoard Member=U6
+Added Pin To Net: NetName=IN_T12_N Pin=J9-2
+Added Pin To Net: NetName=IN_T12_P Pin=J12-2
+Added Room: Name=MotherBoard

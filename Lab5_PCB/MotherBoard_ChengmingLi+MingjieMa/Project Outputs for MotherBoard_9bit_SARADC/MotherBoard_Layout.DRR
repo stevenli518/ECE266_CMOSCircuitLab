@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MotherBoard_Layout.PcbDoc   10/24/2024  1:41:29 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MotherBoard_Layout.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.33mm (13mil)                                            Round             326       PTH        959.94mm (37.79inch)
+T2      0.7mm (28mil)                                             Round             9         PTH        68.33mm (2.69inch)
+T3      1mm (39mil)                                               Round             6         PTH        232.92mm (9.17inch)
+T4      1.02mm (40mil)                                            Round             21        PTH        168.09mm (6.62inch)
+T5      1.04mm (41mil)                                            Round             23        PTH        82.42mm (3.24inch)
+T6      1.1mm (43mil)                                             Round             24        PTH        317.87mm (12.51inch)
+T7      1.3mm (51mil)                                             Round             24        PTH        267.51mm (10.53inch)
+T8      2.2mm (87mil)                                             Round             6         PTH        110.67mm (4.36inch)
+T9      2.946mm (116mil)                                          Round             4         NPTH       395.64mm (15.58inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              443
+
+Total Processing Time (hh:mm:ss) : 00:00:00

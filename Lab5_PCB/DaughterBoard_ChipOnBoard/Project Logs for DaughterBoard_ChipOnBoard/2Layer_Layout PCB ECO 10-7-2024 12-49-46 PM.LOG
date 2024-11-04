@@ -1,0 +1,62 @@
+Change Component Footprint: Designator=P1 Old Footprint=61301021121 New Footprint=61301021121
+Change Component Footprint: Designator=J1 Old Footprint=FP-90120-0125-MFG New Footprint=FP-90120-0125-MFG
+Change Component Footprint: Designator=J2 Old Footprint=FP-90120-0125-MFG New Footprint=FP-90120-0125-MFG
+Added Pin To Net: NetName=AVSS Pin=J2-1
+Added Pin To Net: NetName=AVSS Pin=J2-5
+Added Pin To Net: NetName=VDD_ESD_T12 Pin=U1-1
+Added Pin To Net: NetName=VSS_ESD_T12 Pin=U1-2
+Added Pin To Net: NetName=DVSS_T12 Pin=U1-3
+Added Pin To Net: NetName=VDD_T12 Pin=U1-4
+Added Pin To Net: NetName=AVSS Pin=U1-29
+Added Pin To Net: NetName=AVSS Pin=U1-34
+Added Pin To Net: NetName=VDD_ANA_ESD Pin=U1-36
+Added Pin To Net: NetName=AVSS Pin=U1-43
+Added Pin To Net: NetName=VDD_ANA_ESD Pin=U1-44
+Added Pin To Net: NetName=CLK_T12 Pin=J1-1
+Added Pin To Net: NetName=CLK_T12 Pin=U1-5
+Added Net: Name=CLK_T12
+Added Pin To Net: NetName=Code0 Pin=P1-7
+Added Pin To Net: NetName=Code0 Pin=U1-16
+Added Net: Name=Code0
+Added Pin To Net: NetName=Code1 Pin=P1-5
+Added Pin To Net: NetName=Code1 Pin=U1-15
+Added Net: Name=Code1
+Added Pin To Net: NetName=Code2 Pin=P1-3
+Added Pin To Net: NetName=Code2 Pin=U1-14
+Added Net: Name=Code2
+Added Pin To Net: NetName=Code3 Pin=P1-1
+Added Pin To Net: NetName=Code3 Pin=U1-13
+Added Net: Name=Code3
+Added Pin To Net: NetName=Code4 Pin=P1-10
+Added Pin To Net: NetName=Code4 Pin=U1-12
+Added Net: Name=Code4
+Added Pin To Net: NetName=Code5 Pin=P1-8
+Added Pin To Net: NetName=Code5 Pin=U1-11
+Added Net: Name=Code5
+Added Pin To Net: NetName=Code6 Pin=P1-6
+Added Pin To Net: NetName=Code6 Pin=U1-10
+Added Net: Name=Code6
+Added Pin To Net: NetName=Code7 Pin=P1-4
+Added Pin To Net: NetName=Code7 Pin=U1-9
+Added Net: Name=Code7
+Added Pin To Net: NetName=Code8 Pin=P1-2
+Added Pin To Net: NetName=Code8 Pin=U1-8
+Added Net: Name=Code8
+Added Pin To Net: NetName=EOC Pin=P1-9
+Added Pin To Net: NetName=EOC Pin=U1-17
+Added Net: Name=EOC
+Added Pin To Net: NetName=INN_T12 Pin=J2-3
+Added Pin To Net: NetName=INN_T12 Pin=U1-32
+Added Net: Name=INN_T12
+Added Pin To Net: NetName=INP_T12 Pin=J2-2
+Added Pin To Net: NetName=INP_T12 Pin=U1-39
+Added Net: Name=INP_T12
+Added Pin To Net: NetName=MUX0 Pin=J1-5
+Added Pin To Net: NetName=MUX0 Pin=U1-7
+Added Net: Name=MUX0
+Added Pin To Net: NetName=MUX1 Pin=J1-4
+Added Pin To Net: NetName=MUX1 Pin=U1-6
+Added Net: Name=MUX1
+Added Pin To Net: NetName=VCM_T12 Pin=J2-4
+Added Pin To Net: NetName=VCM_T12 Pin=U1-38
+Added Net: Name=VCM_T12

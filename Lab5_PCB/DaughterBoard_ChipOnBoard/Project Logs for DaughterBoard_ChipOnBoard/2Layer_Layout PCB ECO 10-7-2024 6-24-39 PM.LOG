@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DVSS_T12 Pin=J1-4
+Added Pin To Net: NetName=VDD_T12 Pin=J1-4

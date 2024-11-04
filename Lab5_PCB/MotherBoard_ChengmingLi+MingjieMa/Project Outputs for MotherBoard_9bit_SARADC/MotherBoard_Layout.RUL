@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: C:\Chengming_Li\GitHub\ECE266_CMOSCircuitLab\Lab5_PCB\MotherBoard_9bit_SARADC\MotherBoard_Layout.PcbDoc
+RuleKind=Width|RuleName=Buffer_Equal|Scope=Board|Minimum=5.77
+RuleKind=Width|RuleName=Code|Scope=Board|Minimum=5.77
+RuleKind=Width|RuleName=CLK_50ohm|Scope=Board|Minimum=5.77
+RuleKind=Width|RuleName=Schematic Width Constraint_3|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Schematic Width Constraint_2|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Schematic Width Constraint_1|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Schematic Width Constraint|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

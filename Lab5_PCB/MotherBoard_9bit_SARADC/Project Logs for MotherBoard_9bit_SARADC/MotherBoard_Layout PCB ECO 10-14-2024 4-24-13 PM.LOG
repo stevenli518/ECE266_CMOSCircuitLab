@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=AGND Pin=C2-2
+Removed Pin From Net: NetName=AGND Pin=C4-2
+Removed Member From Class: ClassName=INPUT_Signal Member=ADA4940_IN_P
+Removed Member From Class: ClassName=INPUT_Signal Member=ADA4940_Vout+
+Removed Member From Class: ClassName=INPUT_Signal Member=ADA4940_Vout-
+Removed Member From Class: ClassName=INPUT_Signal Member=Buffer_After_Filter_IN
+Removed Member From Class: ClassName=INPUT_Signal Member=IN_T12_N
+Removed Member From Class: ClassName=INPUT_Signal Member=IN_T12_P
+Removed Member From Class: ClassName=INPUT_Signal Member=NetP4_1
+Removed Member From Class: ClassName=INPUT_Signal Member=NetP12_2
+Removed Member From Class: ClassName=INPUT_Signal Member=NetR6_1
+Removed Member From Class: ClassName=INPUT_Signal Member=SEDE_INPUT
+Removed Member From Class: ClassName=INPUT_Signal Member=V_SIN_IN_P
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C4-2
+Added Net: Name=NetC2_2
+Added Room: Name=MotherBoard

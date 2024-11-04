@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=ADA4940_IN_P Pin=R25-2
+Removed Pin From Net: NetName=ADA4940_Vout- Pin=R26-1
+Removed Pin From Net: NetName=ADA4940_Vout+ Pin=R28-2
+Removed Pin From Net: NetName=ADA4940_IN_N Pin=R29-2
+Removed Member From Class: ClassName=MotherBoard Member=R28
+Removed Member From Class: ClassName=MotherBoard Member=R29
+Change Component Footprint: Designator=R25 Old Footprint=FP-CRCW0805-HPe3-IPC_A New Footprint=RESC2013X70X40ML20T20
+Change Component Footprint: Designator=R26 Old Footprint=FP-CRCW0805-HPe3-IPC_A New Footprint=RESC2013X70X40ML20T20
+Change Component Comment : Designator=R25 Old Comment=CRCW0805100RFKEAHP New Comment=ERJ-6ENF2000V
+Change Component Comment : Designator=R26 Old Comment=CRCW0805100RFKEAHP New Comment=ERJ-6ENF2000V
+Change Managed Component Library Link : Designator=R25 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9F12C12E-1A8E-47DF-BD03-B5B8A23B5929 New ItemGUID=33D3B5F4-0EC4-44A9-B355-5E50C0849A23 Old RevisionGUID=8D0F39DE-C350-4837-A6EF-AA4FF4986163 New RevisionGUID=12C0BC1F-3021-4C6A-8DD0-EC0EB407656E
+Change Managed Component Library Link : Designator=R26 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9F12C12E-1A8E-47DF-BD03-B5B8A23B5929 New ItemGUID=33D3B5F4-0EC4-44A9-B355-5E50C0849A23 Old RevisionGUID=8D0F39DE-C350-4837-A6EF-AA4FF4986163 New RevisionGUID=12C0BC1F-3021-4C6A-8DD0-EC0EB407656E
+Change component parameters: Designator = "R25" ("R25"); Footprint = "FP-CRCW0805-HPe3-IPC_A"; UniqueID = "\ZFUNJRBE" ("\ZFUNJRBE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF2000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "FP-CRCW0805-HPe3-IPC_A"; UniqueID = "\QQCHHXLR" ("\QQCHHXLR")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF2000V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADA4940_IN_P Pin=R25-1
+Added Pin To Net: NetName=ADA4940_Vout- Pin=R25-2
+Added Pin To Net: NetName=ADA4940_IN_N Pin=R26-1
+Added Pin To Net: NetName=ADA4940_Vout+ Pin=R26-2
+Added Room: Name=MotherBoard

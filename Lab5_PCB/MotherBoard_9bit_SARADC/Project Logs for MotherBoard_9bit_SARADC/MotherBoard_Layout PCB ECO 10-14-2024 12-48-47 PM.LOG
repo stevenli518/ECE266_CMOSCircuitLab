@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=ADA4940_5V New Net Name=+5
+Change Net Name : Old Net Name=ADA4940_-5V New Net Name=-5
+Added Room: Name=MotherBoard
+Change Rule Scope 1 : Old Scope=InNet('ADA4940_5V') New Scope=InNet('+5')
+Change Rule Scope 1 : Old Scope=InNet('ADA4940_-5V') New Scope=InNet('-5')

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=For_VCM_0.5V Pin=TP6-1
+Added Pin To Net: NetName=NetP10_1 Pin=TP6-1
+Added Room: Name=MotherBoard

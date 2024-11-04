@@ -1,0 +1,3 @@
+Remove Pin=J3-1 From Net=VDD_ESD_T12
+Remove Pin=J3-2 From Net=VSS_ESD_T12
+Change Component Footprint: Designator=J2 Old Footprint=FP-90120-0125-MFG New Footprint=FP-90120-0125-MFG

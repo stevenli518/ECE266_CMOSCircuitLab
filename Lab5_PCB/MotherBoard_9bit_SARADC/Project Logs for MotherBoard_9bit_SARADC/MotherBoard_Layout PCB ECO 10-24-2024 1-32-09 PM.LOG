@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AGND Pin=P2-1
+Removed Pin From Net: NetName=AGND Pin=P2-2
+Added Pin To Net: NetName=For_DVDD_1V Pin=P2-1
+Added Pin To Net: NetName=For_DVDD_1V Pin=P2-2
+Added Room: Name=MotherBoard

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=AVSS Pin=J2-1
+Added Pin To Net: NetName=VDD_ANA_ESD Pin=J2-1
