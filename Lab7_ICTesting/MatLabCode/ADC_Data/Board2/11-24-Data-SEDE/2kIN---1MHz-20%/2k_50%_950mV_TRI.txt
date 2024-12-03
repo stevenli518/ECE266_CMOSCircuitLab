@@ -1,0 +1,24 @@
+DIGITAL
+D0-D7 Thresh TTL
+D8-D15 Thresh TTL
+
+TRIGGER
+Sweep Mode Auto, Coup DC, Noise Rej Off, HF Rej Off, Holdoff 40.0ns
+Mode Edge, Source D11, Slope Rising, Level 1.40V
+
+HORIZONTAL
+Mode Normal, Ref Center, Main Scale 520.0us/, Main Delay 0.0s
+
+ACQUISITION
+Mode Normal, Realtime, Vectors On, Persistence Off
+Antialiasing On
+
+MEASUREMENTS
+Frequency(1), Cur No signal, Mean 530kHz, Min 0Hz, Max 190.00MHz, Std Dev 5.06MHz, Count 390.5k
+Pk-Pk(1), Cur No signal, Mean 166mV, Min 9mV, Max 7.600V, Std Dev 366mV, Count 1.062M
+Frequency(2), Cur No signal, Mean 660kHz, Min 0Hz, Max 190.00MHz, Std Dev 5.41MHz, Count 346.4k
+Amplitude(2), Cur No signal, Mean 158mV, Min 16mV, Max 2.530V, Std Dev 311mV, Count 346.9k
+Amplitude(1), Cur No signal, Mean 268mV, Min 13mV, Max 5.100V, Std Dev 464mV, Count 417.2k
+Average - Full Screen(1), Cur No signal, Mean 50.46mV, Min -5.1070V, Max 5.0540V, Std Dev 175.23mV, Count 1.062M
+Average - Full Screen(2), Cur No signal, Mean 58.57mV, Min -58.40mV, Max 773.92mV, Std Dev 165.41mV, Count 48.43k
+
